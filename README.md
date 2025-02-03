@@ -29,7 +29,7 @@ This project is licensed under the MIT License
 
 ## Contact
 For questions or inquiries, feel free to contact me at:
-[Akash Mailar] - [akashmailar16@gmail.com]
+[Gmail] - [akashmailar16@gmail.com]
 GitHub: https://github.com/akashmailar
 
 -----------
