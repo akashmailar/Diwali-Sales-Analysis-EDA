@@ -20,9 +20,9 @@ The EDA includes the following key areas of focus:
   - NumPy (numerical operations)
  
 ## Files and Structure
-***Diwali_Sales_Analysis.ipynb**: Jupyter notebook containing the full analysis and EDA.
+**Diwali_Sales_Analysis.ipynb**: Jupyter notebook containing the full analysis and EDA.
 
-**DiwaliSalesData.csv**: Raw data file containing the sales transactions (if available).
+**DiwaliSalesData.csv**: Raw data file (.csv).
 
 **README.md**: This file.
 
