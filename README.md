@@ -21,7 +21,9 @@ The EDA includes the following key areas of focus:
  
 ## Files and Structure
 ***Diwali_Sales_Analysis.ipynb**: Jupyter notebook containing the full analysis and EDA.
+
 **DiwaliSalesData.csv**: Raw data file containing the sales transactions (if available).
+
 **README.md**: This file.
 
 ## License
@@ -29,7 +31,9 @@ This project is licensed under the MIT License
 
 ## Contact
 For questions or inquiries, feel free to contact me at:
+
 [Gmail] - [akashmailar16@gmail.com]
+
 GitHub: https://github.com/akashmailar
 
 -----------
